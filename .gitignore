@@ -2,3 +2,5 @@ settings.py
 settings.pyc
 .ipynb_checkpoints
 .ipynb_checkpoints/*
+my_env
+my_env/*
